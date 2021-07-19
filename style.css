@@ -1,0 +1,54 @@
+body{
+    background-color: cyan;
+    text-align: center;
+}
+
+.op{
+    color: red;
+}
+.lol{
+    background-color: #ffff00;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+ .eee{
+     font-size: 23px;
+ }  
+
+ .kkk{
+     background-color: black;
+     color: white;
+ }
+
+ .rrr{
+     height: 300px;
+     width: 250px;
+ }
+
+ .srsr{
+     font-size: 25px;
+ }
+
+ .pppp{
+     background-color: yellow;
+ }
+
+ .jjjj{
+     font-size: 25px;
+ }
+
+ .bbbb{
+     background-color: violet;
+     color: black;
+ }
+
+ .cv{
+     background-color: yellow;
+     color: black;
+ }
+
+ .jkj{
+     background-color: violet;
+     color: black;
+ }
